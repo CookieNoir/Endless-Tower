@@ -1,5 +1,5 @@
 # Endless Tower
-An unusual realization of tower defense game, in which you need to build floors of the tower to increase the length of the way enemies go and to add cannons to fight with them.
+An unusual realization of the tower defense game, in which you need to build floors of the tower to increase the length of the way enemies go and to add cannons to fight with them.
 
 Each floor of the tower is a construction of 3 sections connected with the ladder.
 Each section has 3 slots for cannons and a special slot for a building.
