@@ -29,6 +29,8 @@ The Cam_Moving script is attached to the empty object with coordinates (0,0,z) w
 
 ![picture](https://github.com/CookieNoir/Endless-Tower/blob/master/cam_moving.png)
 
+Other scripts are used in components they manipulate.
+
 # Other links
 
 Game prototype: https://www.youtube.com/watch?v=wW8IKsFuWiw
