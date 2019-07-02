@@ -18,3 +18,6 @@ To prevent this situation you can
 -or you can build a new floor of the tower to make enemies go another round.
 
 The last action costs some coins and increases the difficulty of the game which leads to appearing of new enemies and growing the health of already known. It also shifts up the limit of the number of enemies.
+
+# How it works
+
