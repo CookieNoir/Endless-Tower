@@ -21,3 +21,16 @@ The last action costs some coins and increases the difficulty of the game which 
 
 # How it works
 
+The Game script is attached to the top of the tower
+
+![picture](https://github.com/CookieNoir/Endless-Tower/blob/master/tower_top.png)
+
+The Cam_Moving script is attached to the empty object with coordinates (0,0,z) which contains the camera child object inside with custom coordinates and location
+
+![picture](https://github.com/CookieNoir/Endless-Tower/blob/master/cam_moving.png)
+
+# Other links
+
+Game prototype: https://www.youtube.com/watch?v=wW8IKsFuWiw
+
+Game working demo: https://www.youtube.com/watch?v=LFAHmuc7DiY
